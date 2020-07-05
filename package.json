@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rauzola/backend.git",
+  "author": "rauzola <raul_sigoli@hotmail.com>",
+  "license": "MIT"
+}
