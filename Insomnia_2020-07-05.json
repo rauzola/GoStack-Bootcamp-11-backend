@@ -164,16 +164,6 @@
       "name": "Default Jar",
       "parentId": "wrk_523a91c4bee44eb79b6a7d8632038f5b",
       "_type": "cookie_jar"
-    },
-    {
-      "_id": "spc_daa3b123a99f4bd8ab158fdac57983a1",
-      "contentType": "yaml",
-      "contents": "",
-      "created": 1593907693498,
-      "fileName": "GoStack Bootcamp 11",
-      "modified": 1593907693498,
-      "parentId": "wrk_523a91c4bee44eb79b6a7d8632038f5b",
-      "_type": "api_spec"
     }
   ]
 }
