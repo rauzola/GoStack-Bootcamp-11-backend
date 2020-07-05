@@ -1,11 +1,17 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/rauzola/backend.git",
+  "main": "src/index.js",
+  "repository": "https://github.com/rauzola/GoStack-Bootcamp-11-backend.git",
   "author": "rauzola <raul_sigoli@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
